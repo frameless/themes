@@ -2644,6 +2644,14 @@
             "type": "spacing"
           }
         },
+        "rows": {
+          "item": {
+            "margin-block-start": {
+              "value": "24px",
+              "type": "spacing"
+            }
+          }
+        },
         "item": {
           "border-width": {
             "type": "borderWidth",
